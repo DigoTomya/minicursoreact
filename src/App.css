@@ -1,0 +1,17 @@
+body {
+    padding: 0;
+    margin: 0 ;
+    font-family: sans-serif;
+}
+
+.header {
+    background-color: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dark{
+    background-color: gray;
+}
